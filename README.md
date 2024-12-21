@@ -6,6 +6,9 @@ This project introduces a blockchain-based smart contract that provides bonus re
 ## Contract Address
 0x6784a5B04aa7Abb7d357eBDE8Afb4C95dC9bb448
 
+![image](https://github.com/user-attachments/assets/3cf8207e-c33d-420c-8376-20d961a187de)
+
+
 ## Project Vision
 The vision is to create a transparent and reliable reward mechanism to incentivize recruitment efforts in a decentralized manner. By leveraging blockchain technology, the project ensures fair distribution of bonuses and eliminates disputes arising from reward mismanagement.
 
